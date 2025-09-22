@@ -1,0 +1,2 @@
+# duplas
+em conjunto
